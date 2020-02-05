@@ -1,6 +1,8 @@
 ## Métodos Numéricos para Ingeniería: Proyecto Final
 >Dr. Ricardo Rafael Quintero Meza
 
+![](https://assets.metrolatam.com/mx/2014/08/12/buyl-8aceaihytz-1600x800.jpg)
+
 Por: A01114522, Sebastián Angulo Vadez. A01740779, Alicia del Rocio Medina Garcia.
 
 ### Lista de Ejercicios
