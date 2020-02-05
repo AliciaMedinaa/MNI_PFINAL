@@ -1,11 +1,7 @@
 ## Métodos Numéricos para Ingeniería: Proyecto Final
 >Dr. Ricardo Rafael Quintero Meza
 
-Por:
-  
-A01114522, Sebastián Angulo Vadez.
-  
-A01740779, Alicia del Rocio Medina Garcia.
+Por: A01114522, Sebastián Angulo Vadez. A01740779, Alicia del Rocio Medina Garcia.
 
 ### Lista de Ejercicios
 
